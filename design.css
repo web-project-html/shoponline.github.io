@@ -1,0 +1,59 @@
+h1{
+     color: green;
+}
+
+#close{
+    height: 25px;
+    width: 30px;
+}
+
+#Header_A1{
+	   background-color: greenyellow;
+	   height: 35px;
+	   width: 865px;
+}
+#Header_A2{
+    position: absolute;
+    top: 87px;left: 60px;
+   
+  }
+#Header_A3{
+
+   position: absolute;
+   top: 85px; left: 325px;
+}
+#Header_A4{
+    position: absolute;
+    top: 88px; left: 360px;
+    color: blueviolet;
+}
+#Header_A5{
+    position: absolute;
+    top: 88px; left: 440px;
+    color:blueviolet;
+}
+#Header_A6{
+    position: absolute;
+    top: 88px; left: 490px;
+    color: blueviolet;
+}
+#Header_A7{
+    position: absolute;
+    top: 88px; left: 540px;
+    color: blueviolet;
+}
+#Header_A8{
+    position: absolute;
+    top: 88px; left: 630px;
+    color: blueviolet;
+}
+#Header_A9{
+    position: absolute;
+    top: 85px; left: 600px;
+    color: blueviolet;
+}
+#Header_A10{
+    position: absolute;
+    top:87px; left: 290px;
+    background-blend-mode: darken;
+}
